@@ -1,4 +1,6 @@
 1. Qualified Lead Management Dashboard (Internship Project)
+Note: This dashboard is based on dummy data only and does not reflect any real client data. Additional dashboards have been created during the internship but cannot be shared publicly due to confidentiality.
+
  File: dummy data overview.pbix
 Screenshot: dummy data leads dashboard.
 
